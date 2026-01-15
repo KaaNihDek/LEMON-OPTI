@@ -56,7 +56,7 @@ Find the latest release of Optimizer on the [Discord](https://discord.gg/WAvpQ6H
 <h2>🖼️ Screenshots</h2> 
 </center>
 
-View Optimizer in action through our [Screenshots](https://github.com/hellzerg/optimizer/blob/master/IMAGES.md) collection.
+View Optimizer in action through our [Screenshots](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/IMAGES.md) collection.
 
 <center>
 <h2> 🆘 How to Disable Defender in Windows 10 1903 and Later</h2> 
